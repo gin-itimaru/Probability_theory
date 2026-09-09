@@ -1,2 +1,2 @@
 # Probability_theory
-* [Задания]
+* [Задания](https://github.com/gin-itimaru/Probability_theory/blob/main/teorver.ipynb)
